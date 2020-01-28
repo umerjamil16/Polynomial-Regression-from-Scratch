@@ -1,0 +1,14 @@
+calCost.m			  main.m
+CostFunctionConvergenceCurve.fig  main_poly.asv
+createHyp.m			  main_poly.m
+createMatrix.m			  meanFunc.m
+createPoly.m			  modelEval.m
+data3.csv			  modelSelectionCurve.fig
+dataCleaning_featureEngg.m	  modelSelectionCurve.png
+featureNorm.m			  mulFunc.m
+GD.m				  prediction.m
+GDconvergence.png		  sumFunc.m
+learning\ curve.png		  validation\ curve.png
+learningCurve.fig		  validationCurve.asv
+learningCurve.m			  validationCurve.fig
+linearRegCostFunction.m		  validationCurve.m
